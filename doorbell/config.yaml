@@ -1,9 +1,9 @@
-name: Hikvision Doorbell
+name: Hikvision Doorbell (lucaslgrs)
 description: Connect your Hikvision doorbells to Home Assistant
-version: '3.0.33'
+version: '3.0.34'
 image: ghcr.io/pergolafabio/hikvision-doorbell
-slug: hikvision_doorbell
-url: https://github.com/pergolafabio/Hikvision-Addons/tree/main/doorbell
+slug: lucaslgrs_hikvision_doorbell
+url: https://github.com/lucaslgrs/Hikvision-Addons/tree/main/doorbell
 arch:
 - amd64
 - i386
